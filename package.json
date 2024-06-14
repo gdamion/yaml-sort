@@ -24,6 +24,7 @@
     "shell"
   ],
   "author": "Damien Debin <damien.debin@gmail.com>",
+  "maintainers": ["Alexander Bogoslovskiy"],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ddebin/yaml-sort/issues"
