@@ -1,0 +1,7 @@
+---
+- id: yaml-sort
+  name: yaml-sort
+  entry: yaml-sort
+  language: node
+  language_version: default
+  types: [yaml]
