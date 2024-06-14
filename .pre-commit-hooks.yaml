@@ -3,5 +3,5 @@
   name: yaml-sort
   entry: yaml-sort --input
   language: node
-  language_version: default
   types: [yaml]
+  args: []
